@@ -1,0 +1,10 @@
+D:\Public\OpenCTTSolution\OCTTAutomatedTT\bin\Release\OCTTAutomated.dll
+D:\Public\OpenCTTSolution\OCTTAutomatedTT\bin\Release\OCTTAutomated.pdb
+D:\Public\OpenCTTSolution\OCTTAutomatedTT\obj\Release\OCTTAutomatedTT.csprojResolveAssemblyReference.cache
+D:\Public\OpenCTTSolution\OCTTAutomatedTT\obj\Release\OCTTAutomated.dll
+D:\Public\OpenCTTSolution\OCTTAutomatedTT\obj\Release\OCTTAutomated.pdb
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTTAutomatedTT\bin\Release\OCTTAutomated.dll
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTTAutomatedTT\bin\Release\OCTTAutomated.pdb
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTTAutomatedTT\obj\Release\OCTTAutomatedTT.csprojResolveAssemblyReference.cache
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTTAutomatedTT\obj\Release\OCTTAutomated.dll
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTTAutomatedTT\obj\Release\OCTTAutomated.pdb
