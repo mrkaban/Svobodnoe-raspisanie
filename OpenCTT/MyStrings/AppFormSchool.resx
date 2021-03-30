@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="_printChoiceEPMenuItem.Text" xml:space="preserve">
+    <value>Для классов</value>
+  </data>
+  <data name="_addEPGMenuItem.Text" xml:space="preserve">
+    <value>Добавить новую группу образовательных программ</value>
+  </data>
+  <data name="_epgMenuItem.Text" xml:space="preserve">
+    <value>Группа образовательных программ</value>
+  </data>
+  <data name="_epgPropertiesMenuItem.Text" xml:space="preserve">
+    <value>Свойства группы образовательных программ</value>
+  </data>
+  <data name="_addEPMenuItem.Text" xml:space="preserve">
+    <value>Добавить класс</value>
+  </data>
+  <data name="_delEPGMenuItem.Text" xml:space="preserve">
+    <value>Удалить группу образовательных программ</value>
+  </data>
+  <data name="_epgPrintTTForAllEPsMenuItem.Text" xml:space="preserve">
+    <value>Печать расписания для всех принадлежащих образовательных программ</value>
+  </data>
+  <data name="_epMenuItem.Text" xml:space="preserve">
+    <value>Класс</value>
+  </data>
+  <data name="_epPropertiesMenuItem.Text" xml:space="preserve">
+    <value>Свойства класса</value>
+  </data>
+  <data name="_delEPMenuItem.Text" xml:space="preserve">
+    <value>Удалить класс</value>
+  </data>
+  <data name="_epPrintTTMenuItem.Text" xml:space="preserve">
+    <value>Печать расписания класса</value>
+  </data>
+  <data name="_fileMenuItem.Text" xml:space="preserve">
+    <value>Файл</value>
+  </data>
+  <data name="_newDocMenuItem.Text" xml:space="preserve">
+    <value>Новый документ</value>
+  </data>
+  <data name="_openDocMenuItem.Text" xml:space="preserve">
+    <value>Открыть документ</value>
+  </data>
+  <data name="_saveDocMenuItem.Text" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="_saveAsDocMenuItem.Text" xml:space="preserve">
+    <value>Сохранить как...</value>
+  </data>
+  <data name="_closeDocMenuItem.Text" xml:space="preserve">
+    <value>Закрыть документ</value>
+  </data>
+  <data name="_printTimetableMenuItem.Text" xml:space="preserve">
+    <value>Печать расписания</value>
+  </data>
+  <data name="_printChoiceTeacherMenuItem.Text" xml:space="preserve">
+    <value>Для учителей</value>
+  </data>
+  <data name="_printChoiceRoomMenuItem.Text" xml:space="preserve">
+    <value>Для кабинетов</value>
+  </data>
+  <data name="_exitAppMenuItem.Text" xml:space="preserve">
+    <value>Выход из программы</value>
+  </data>
+  <data name="_docMenuItem.Text" xml:space="preserve">
+    <value>Документ</value>
+  </data>
+  <data name="_addTeacherMenuItem.Text" xml:space="preserve">
+    <value>Добавить учителя</value>
+  </data>
+  <data name="_delAllTeachersMenuItem.Text" xml:space="preserve">
+    <value>Удалить всех учителей</value>
+  </data>
+  <data name="_printTimetableAllTeachersMenuItem.Text" xml:space="preserve">
+    <value>Печать расписания для всех учителей</value>
+  </data>
+  <data name="_addRoomMenuItem.Text" xml:space="preserve">
+    <value>Добавить кабинет</value>
+  </data>
+  <data name="_delAllRoomsMenuItem.Text" xml:space="preserve">
+    <value>Удалить все кабинеты</value>
+  </data>
+  <data name="_printTimetableAllRoomsMenuItem.Text" xml:space="preserve">
+    <value>Печать расписания для всех кабинетов</value>
+  </data>
+  <data name="_docPropertiesMenuItem.Text" xml:space="preserve">
+    <value>Свойства документа</value>
+  </data>
+  <data name="_searchMenuItem.Text" xml:space="preserve">
+    <value>Поиск</value>
+  </data>
+  <data name="_epgATSMenuItem.Text" xml:space="preserve">
+    <value>Определение разрешенных / не разрешенных временных интервалов</value>
+  </data>
+  <data name="_addCourseMenuItem.Text" xml:space="preserve">
+    <value>Добавить новый курс</value>
+  </data>
+  <data name="_addCourseFromClipboardMenuItem.Text" xml:space="preserve">
+    <value>Добавить новый курс из буфера обмена</value>
+  </data>
+  <data name="_epATSMenuItem.Text" xml:space="preserve">
+    <value>Определение разрешенных / не разрешенных временных интервалов</value>
+  </data>
+  <data name="_clearTimetableMenuItem.Text" xml:space="preserve">
+    <value>Очистить расписание</value>
+  </data>
+  <data name="_epDelAllMyCoursesMenuItem.Text" xml:space="preserve">
+    <value>Удалить все принадлежащие курсы</value>
+  </data>
+  <data name="_courseMenuItem.Text" xml:space="preserve">
+    <value>Курс</value>
+  </data>
+  <data name="_coursePropertiesMenuItem.Text" xml:space="preserve">
+    <value>Свойства курса</value>
+  </data>
+  <data name="_courseRoomsRestrictionMenuItem.Text" xml:space="preserve">
+    <value>Ограничение возможных кабинетов</value>
+  </data>
+  <data name="_coursesToHoldTogetherMenuItem.Text" xml:space="preserve">
+    <value>Определение курсов для скрепления</value>
+  </data>
+  <data name="_convertToGroupsMenuItem.Text" xml:space="preserve">
+    <value>Преобразование в группы</value>
+  </data>
+  <data name="_delCourseMenuItem.Text" xml:space="preserve">
+    <value>Удалить курс</value>
+  </data>
+  <data name="_courseStoreToClipboardMenuItem.Text" xml:space="preserve">
+    <value>Копировать курс в буфер обмена</value>
+  </data>
+  <data name="_teacherMenuItem.Text" xml:space="preserve">
+    <value>Учитель</value>
+  </data>
+  <data name="_teacherPropertiesMenuItem.Text" xml:space="preserve">
+    <value>Свойства учителя</value>
+  </data>
+  <data name="_teacherATSMenuItem.Text" xml:space="preserve">
+    <value>Определение разрешенных / не разрешенных временных интервалов</value>
+  </data>
+  <data name="_teacherRoomsRestrictionMenuItem.Text" xml:space="preserve">
+    <value>Ограничение возможных кабинетов</value>
+  </data>
+  <data name="_delTeacherMenuItem.Text" xml:space="preserve">
+    <value>Удалить учителя</value>
+  </data>
+  <data name="_teacherPrintTTMenuItem.Text" xml:space="preserve">
+    <value>Печать расписания для учителя</value>
+  </data>
+  <data name="_roomMenuItem.Text" xml:space="preserve">
+    <value>Кабинет</value>
+  </data>
+  <data name="_roomPropertiesMenuItem.Text" xml:space="preserve">
+    <value>Свойства кабинета</value>
+  </data>
+  <data name="_roomATSMenuItem.Text" xml:space="preserve">
+    <value>Определение разрешенных / не разрешенных временных интервалов</value>
+  </data>
+  <data name="_delRoomMenuItem.Text" xml:space="preserve">
+    <value>Удалить кабинет</value>
+  </data>
+  <data name="_roomPrintTTMenuItem.Text" xml:space="preserve">
+    <value>Печать расписания для кабинета</value>
+  </data>
+  <data name="_toolsMenuItem.Text" xml:space="preserve">
+    <value>Инструменты</value>
+  </data>
+  <data name="_settingsMenuItem.Text" xml:space="preserve">
+    <value>Настройки</value>
+  </data>
+  <data name="_helpMenuItem.Text" xml:space="preserve">
+    <value>Справка</value>
+  </data>
+  <data name="_helpContentMenuItem.Text" xml:space="preserve">
+    <value>Содержание</value>
+  </data>
+  <data name="_aboutMenuItem.Text" xml:space="preserve">
+    <value>О программе</value>
+  </data>
+  <data name="_newDocToolBarButton.ToolTipText" xml:space="preserve">
+    <value>Новый документ</value>
+  </data>
+  <data name="_openDocToolBarButton.ToolTipText" xml:space="preserve">
+    <value>Открыть документ</value>
+  </data>
+  <data name="_saveDocToolBarButton.ToolTipText" xml:space="preserve">
+    <value>Сохранить</value>
+  </data>
+  <data name="_closeDocToolBarButton.ToolTipText" xml:space="preserve">
+    <value>Закрыть</value>
+  </data>
+  <data name="_undoToolBarButton.ToolTipText" xml:space="preserve">
+    <value>Вернуть</value>
+  </data>
+  <data name="_redoToolBarButton.ToolTipText" xml:space="preserve">
+    <value>Повтор</value>
+  </data>
+  <data name="_searchToolBarButton.ToolTipText" xml:space="preserve">
+    <value>Найти</value>
+  </data>
+  <data name="_printToolBarButton.ToolTipText" xml:space="preserve">
+    <value>Печать расписания</value>
+  </data>
+  <data name="_helpToolBarButton.ToolTipText" xml:space="preserve">
+    <value>Справка</value>
+  </data>
+  <data name="_coursesTab.Text" xml:space="preserve">
+    <value>Курсы</value>
+  </data>
+  <data name="_columnHeaderULLVTeachers2.Text" xml:space="preserve">
+    <value>Класс</value>
+  </data>
+  <data name="_columnHeaderULLVTeachers3.Text" xml:space="preserve">
+    <value>Семестр</value>
+  </data>
+  <data name="_teachersTab.Text" xml:space="preserve">
+    <value>Учителя</value>
+  </data>
+  <data name="_roomsTab.Text" xml:space="preserve">
+    <value>Кабинеты</value>
+  </data>
+  <data name="_columnHeaderULLVCourses1.Text" xml:space="preserve">
+    <value>Нераспределенный урок</value>
+  </data>
+  <data name="_columnHeaderULLVCourses2.Text" xml:space="preserve">
+    <value>Учитель</value>
+  </data>
+  <data name="_columnHeaderULLVTeachers1.Text" xml:space="preserve">
+    <value>Нераспределенный урок</value>
+  </data>
+  <data name="deleteEPG_Click.msb.message" xml:space="preserve">
+    <value>Вы действительно хотите удалить выбранную группу образовательных программ?</value>
+  </data>
+  <data name="deleteEPG_Click.msb.caption" xml:space="preserve">
+    <value>Удалить группу образовательных программ?</value>
+  </data>
+  <data name="deleteEPG_Click.msb.notdel.message" xml:space="preserve">
+    <value>Образовательная программная группа не удаляется, поскольку по крайней мере один принадлежащий класс имеет в расписании хотя бы один выделенный урок!</value>
+  </data>
+  <data name="deleteEPG_Click.msb.notdel.caption" xml:space="preserve">
+    <value>Группа образовательных программ не удалена</value>
+  </data>
+  <data name="addCourseFromClipboard_Click.msb.notadded.reason.teacher.message" xml:space="preserve">
+    <value>Новый курс не создан, потому что нет учителя для курса в буфере обмена!</value>
+  </data>
+  <data name="addCourseFromClipboard_Click.msb.notadded.reason.teacher.caption" xml:space="preserve">
+    <value>Курс из буфера обмена не создан</value>
+  </data>
+  <data name="addCourseFromClipboard_Click.msb.notadded.reason.name.message" xml:space="preserve">
+    <value>Новый курс не создан, потому что уже есть курс в классе с тем же названием или коротким названием!</value>
+  </data>
+  <data name="addCourseFromClipboard_Click.msb.notadded.reason.name.caption" xml:space="preserve">
+    <value>Курс из буфера обмена не создан</value>
+  </data>
+  <data name="deleteAllCourses_Click.msb.confirm.message" xml:space="preserve">
+    <value>Вы действительно хотите удалить все принадлежащие курсы?</value>
+  </data>
+  <data name="deleteAllCourses_Click.msb.confirm.caption" xml:space="preserve">
+    <value>Удалить все курсы?</value>
+  </data>
+  <data name="deleteAllCourses_Click.msb.notalldeleted.message" xml:space="preserve">
+    <value>Один или несколько курсов не удаляются, потому что у них есть хотя бы один выделенный урок. Чтобы удалить эти курсы, вы должны перенести все выделенные уроки из графика в нераспределенные уроки.</value>
+  </data>
+  <data name="deleteAllCourses_Click.msb.notalldeleted.caption" xml:space="preserve">
+    <value>Все курсы не удалены</value>
+  </data>
+  <data name="deleteEduProgram_Click.msb.confirm.message" xml:space="preserve">
+    <value>Вы действительно хотите удалить выбранный класс?</value>
+  </data>
+  <data name="deleteEduProgram_Click.msb.confirm.caption" xml:space="preserve">
+    <value>Удалить класс?</value>
+  </data>
+  <data name="deleteEduProgram_Click.msb.notdeleted.message" xml:space="preserve">
+    <value>Класс не удаляется, поскольку он имеет по крайней мере один выделенный урок в расписании. Чтобы удалить его, вы должны перенести все выделенные уроки из расписания в нераспределенные уроки.</value>
+  </data>
+  <data name="deleteEduProgram_Click.msb.notdeleted.caption" xml:space="preserve">
+    <value>Класс не удален</value>
+  </data>
+  <data name="clearTimetable_Click.msb.confirm.message" xml:space="preserve">
+    <value>Вы действительно хотите перенести все выделенные уроки из расписание в нераспределенные уроки?</value>
+  </data>
+  <data name="clearTimetable_Click.msb.confirm.caption" xml:space="preserve">
+    <value>Очистить расписание?</value>
+  </data>
+  <data name="deleteCourse_Click.msb.confirm.message" xml:space="preserve">
+    <value>Вы действительно хотите удалить выбранный курс?</value>
+  </data>
+  <data name="deleteCourse_Click.msb.confirm.caption" xml:space="preserve">
+    <value>Удалить курс?</value>
+  </data>
+  <data name="deleteCourse_Click.msb.notdeleted.message" xml:space="preserve">
+    <value>Курс не удаляется, поскольку он имеет по крайней мере один выделенный урок. Чтобы удалить этот курс, вам необходимо переместить все выделенные уроки из графика в нераспределенные уроки.</value>
+  </data>
+  <data name="deleteCourse_Click.msb.notdeleted.caption" xml:space="preserve">
+    <value>Все курсы не удалены</value>
+  </data>
+  <data name="roomRestrictionForCourse_Click.course.text" xml:space="preserve">
+    <value>курс</value>
+  </data>
+  <data name="roomRestrictionForCourse_Click.group.text" xml:space="preserve">
+    <value>группа</value>
+  </data>
+  <data name="deleteAllTeachers_Click.msb.confirm.message" xml:space="preserve">
+    <value>Вы действительно хотите удалить всех учителей?</value>
+  </data>
+  <data name="deleteAllTeachers_Click.msb.confirm.caption" xml:space="preserve">
+    <value>Удалить всех учителей?</value>
+  </data>
+  <data name="deleteAllTeachers_Click.msb.notalldeleted.message" xml:space="preserve">
+    <value>Как минмум один учитель не удален. Неудаленный учитель установлен как учитель курса по крайней мере для одного курса.</value>
+  </data>
+  <data name="deleteAllTeachers_Click.msb.notalldeleted.caption" xml:space="preserve">
+    <value>Все учителя не удалены</value>
+  </data>
+  <data name="roomRestrictionForTeacher_Click.forteacher.text" xml:space="preserve">
+    <value>учитель</value>
+  </data>
+  <data name="deleteTeacher_Click.msb.confirm.message" xml:space="preserve">
+    <value>Вы действительно хотите удалить выбранного учителя?</value>
+  </data>
+  <data name="deleteTeacher_Click.msb.confirm.caption" xml:space="preserve">
+    <value>Удалить учителя?</value>
+  </data>
+  <data name="deleteTeacher_Click.msb.notdeleted.message" xml:space="preserve">
+    <value>Учитель не удаляется, потому что он / она назначен учителем курса по крайней мере для одного курса.</value>
+  </data>
+  <data name="deleteTeacher_Click.msb.notdeleted.caption" xml:space="preserve">
+    <value>Учитель не удален</value>
+  </data>
+  <data name="doctypeslist.school.text" xml:space="preserve">
+    <value>Школа</value>
+  </data>
+  <data name="doctypeslist.university.text" xml:space="preserve">
+    <value>Университет</value>
+  </data>
+  <data name="daytext.monday" xml:space="preserve">
+    <value>Понедельник</value>
+  </data>
+  <data name="daytext.tuesday" xml:space="preserve">
+    <value>Вторник</value>
+  </data>
+  <data name="daytext.wednesday" xml:space="preserve">
+    <value>Среда</value>
+  </data>
+  <data name="daytext.thursday" xml:space="preserve">
+    <value>Четверг</value>
+  </data>
+  <data name="daytext.friday" xml:space="preserve">
+    <value>Пятница</value>
+  </data>
+  <data name="daytext.saturday" xml:space="preserve">
+    <value>Суббота</value>
+  </data>
+  <data name="daytext.sunday" xml:space="preserve">
+    <value>Воскресенье</value>
+  </data>
+  <data name="deleteAllRooms_Click.msb.confirm.message" xml:space="preserve">
+    <value>Вы действительно хотите удалить все кабинеты?</value>
+  </data>
+  <data name="deleteAllRooms_Click.msb.confirm.caption" xml:space="preserve">
+    <value>Удалить все кабинеты?</value>
+  </data>
+  <data name="deleteAllRooms_Click.msb.notalldeleted.message" xml:space="preserve">
+    <value>Как минимум один кабинет не удаляется. Для каждого неудаленного кабинета есть как минимум один урок, выделенный в этом кабинете.</value>
+  </data>
+  <data name="deleteAllRooms_Click.msb.notalldeleted.caption" xml:space="preserve">
+    <value>Все кабинеты не удалены</value>
+  </data>
+  <data name="deleteRoom_Click.msb.confirm.message" xml:space="preserve">
+    <value>Вы действительно хотите удалить выбранный кабинет?</value>
+  </data>
+  <data name="deleteRoom_Click.msb.confirm.caption" xml:space="preserve">
+    <value>Удалить кабинет?</value>
+  </data>
+  <data name="deleteRoom_Click.msb.notdeleted.message" xml:space="preserve">
+    <value>Кабинет не удаляется, потому что в нем есть как минимум один урок.</value>
+  </data>
+  <data name="deleteRoom_Click.msb.notdeleted.caption" xml:space="preserve">
+    <value>Кабинет не удален</value>
+  </data>
+  <data name="ctv.timetableTab.for.Text" xml:space="preserve">
+    <value>Расписание для класса:</value>
+  </data>
+  <data name="ctv.timetableTab.sem.text" xml:space="preserve">
+    <value>. год</value>
+  </data>
+  <data name="rtv.timetableTab.for.Text" xml:space="preserve">
+    <value>Расписание для кабинета:</value>
+  </data>
+  <data name="ttv.timetableTab.for.Text" xml:space="preserve">
+    <value>Расписание для учителя:</value>
+  </data>
+  <data name="doOpenDocAction.msb.filenotfound.message1" xml:space="preserve">
+    <value>Произошла ошибка при чтении файла. Файл</value>
+  </data>
+  <data name="doOpenDocAction.msb.filenotfound.message2" xml:space="preserve">
+    <value>не найден!</value>
+  </data>
+  <data name="doOpenDocAction.msb.filenotfound.caption" xml:space="preserve">
+    <value>Ошибка</value>
+  </data>
+  <data name="checkSaveBeforeCloseDocument.msb.confirm.message1" xml:space="preserve">
+    <value>Документ</value>
+  </data>
+  <data name="checkSaveBeforeCloseDocument.msb.confirm.message2" xml:space="preserve">
+    <value>изменен. Вы хотите сохранить изменения?</value>
+  </data>
+  <data name="checkSaveBeforeCloseDocument.msb.confirm.caption" xml:space="preserve">
+    <value>Закрыть документ?</value>
+  </data>
+  <data name="addNewDayMenuItem.Text" xml:space="preserve">
+    <value>Добавить день</value>
+  </data>
+  <data name="addNewTermMenuItem.Text" xml:space="preserve">
+    <value>Добавить срок</value>
+  </data>
+  <data name="_printTeacherListMenuItem.Text" xml:space="preserve">
+    <value>Печать списка учителя</value>
+  </data>
+  <data name="_printTeacherHoursMenuItem.Text" xml:space="preserve">
+    <value>Печать часов учителя</value>
+  </data>
+  <data name="_printRoomsListMenuItem.Text" xml:space="preserve">
+    <value>Печать списка кабинетов</value>
+  </data>
+  <data name="_scBaseTeachersMenuItem.Text" xml:space="preserve">
+    <value>Базовые ограничения для учителей</value>
+  </data>
+  <data name="_scTeacherMenuItem.Text" xml:space="preserve">
+    <value>Настройки ограничений для выбранного учителя</value>
+  </data>
+  <data name="_scBaseEPMenuItem.Text" xml:space="preserve">
+    <value>Базовые ограничения для классов</value>
+  </data>
+  <data name="_scEduProgramMenuItem.Text" xml:space="preserve">
+    <value>Настройки ограничений для выбранного класса</value>
+  </data>
+  <data name="_autoTTMenuItem.Text" xml:space="preserve">
+    <value>Автоматизированное расписание</value>
+  </data>
+  <data name="_scBaseCoursesMenuItem.Text" xml:space="preserve">
+    <value>Базовые ограничения для курсов</value>
+  </data>
+  <data name="_scCourseMenuItem.Text" xml:space="preserve">
+    <value>Настройки ограничений для выбранного курса</value>
+  </data>
+  <data name="_printMasterTimetableMenuItem.Text" xml:space="preserve">
+    <value>Мастер расписания</value>
+  </data>
+</root>
