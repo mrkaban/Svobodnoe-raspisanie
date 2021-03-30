@@ -1,0 +1,14 @@
+D:\Public\OpenCTTSolution\OCTT_MySql_Plugin\bin\Release\OCTT_MySql_Plugin.dll
+D:\Public\OpenCTTSolution\OCTT_MySql_Plugin\bin\Release\MySql.Data.dll
+D:\Public\OpenCTTSolution\OCTT_MySql_Plugin\bin\Release\octtplugininterface.dll
+D:\Public\OpenCTTSolution\OCTT_MySql_Plugin\obj\Release\OCTT_MySql_Plugin.csprojResolveAssemblyReference.cache
+D:\Public\OpenCTTSolution\OCTT_MySql_Plugin\obj\Release\OCTT_MySql_Plugin.OCTT_MySql_DBExportTTForm.resources
+D:\Public\OpenCTTSolution\OCTT_MySql_Plugin\obj\Release\OCTT_MySql_Plugin.csproj.GenerateResource.Cache
+D:\Public\OpenCTTSolution\OCTT_MySql_Plugin\obj\Release\OCTT_MySql_Plugin.dll
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTT_MySql_Plugin\bin\Release\OCTT_MySql_Plugin.dll
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTT_MySql_Plugin\bin\Release\MySql.Data.dll
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTT_MySql_Plugin\bin\Release\octtplugininterface.dll
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTT_MySql_Plugin\obj\Release\OCTT_MySql_Plugin.csprojResolveAssemblyReference.cache
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTT_MySql_Plugin\obj\Release\OCTT_MySql_Plugin.OCTT_MySql_DBExportTTForm.resources
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTT_MySql_Plugin\obj\Release\OCTT_MySql_Plugin.csproj.GenerateResource.Cache
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTT_MySql_Plugin\obj\Release\OCTT_MySql_Plugin.dll
