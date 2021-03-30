@@ -1,0 +1,6 @@
+D:\Public\OpenCTTSolution\OCTTPluginInterface\bin\Release\octtplugininterface.dll
+D:\Public\OpenCTTSolution\OCTTPluginInterface\obj\Release\OCTTPluginInterface.csprojResolveAssemblyReference.cache
+D:\Public\OpenCTTSolution\OCTTPluginInterface\obj\Release\octtplugininterface.dll
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTTPluginInterface\bin\Release\octtplugininterface.dll
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTTPluginInterface\obj\Release\OCTTPluginInterface.csprojResolveAssemblyReference.cache
+C:\Users\s-r-grass\Desktop\OpenCTTSolution\OCTTPluginInterface\obj\Release\octtplugininterface.dll
